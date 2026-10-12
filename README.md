@@ -102,7 +102,7 @@ The dashboard contains three pages:
 - State-wise fraud analysis
 - Card type fraud rate comparisons
 - Bank-wise fraud analysis
-![Fraud Pattern Analysis](FraudPatterns.png)
+![Fraud Pattern Analysis](Fraud Patterns.png)
 ### Page 3: Risk & Alert Analysis
 - Average risk signals
 - Transactions with 3+ risk signals
