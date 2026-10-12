@@ -109,6 +109,7 @@ The dashboard contains three pages:
 - Highest observed fraud rate by risk signal count
 - Recommended alert triggers
 - Risk-based alert rule recommendations
+![Risk & Alert Analysis](Risk And Alerts.png)
 
 
 
