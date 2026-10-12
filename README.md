@@ -112,8 +112,3 @@ The dashboard contains three pages:
 ![Risk & Alert Analysis](RiskAndAlerts.png)
 
 
-
-
-## Author
-
-Shreyash Ingole
